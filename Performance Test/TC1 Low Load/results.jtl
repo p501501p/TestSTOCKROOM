@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792612129763,547,GET /api/status,200,OK,Product API - 1 user 1-1,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,544,0,486
+1792612130909,1181,GET /api/products,200,OK,Product API - 1 user 1-1,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,1180,0,0
+1792612135687,147,GET /api/status,200,OK,Product API - 1 user 1-2,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,147,0,98
+1792612135836,505,GET /api/products,200,OK,Product API - 1 user 1-2,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,505,0,0
+1792612141685,140,GET /api/status,200,OK,Product API - 1 user 1-3,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,140,0,92
+1792612141829,513,GET /api/products,200,OK,Product API - 1 user 1-3,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,513,0,0
+1792612147686,152,GET /api/status,200,OK,Product API - 1 user 1-4,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,152,0,96
+1792612147840,500,GET /api/products,200,OK,Product API - 1 user 1-4,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,499,0,0
+1792612153687,152,GET /api/status,200,OK,Product API - 1 user 1-5,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,152,0,90
+1792612153840,516,GET /api/products,200,OK,Product API - 1 user 1-5,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,516,0,0
+1792612159686,152,GET /api/status,200,OK,Product API - 1 user 1-6,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,152,0,95
+1792612159840,512,GET /api/products,200,OK,Product API - 1 user 1-6,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,512,0,0
+1792612165685,160,GET /api/status,200,OK,Product API - 1 user 1-7,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,160,0,96
+1792612165846,527,GET /api/products,200,OK,Product API - 1 user 1-7,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,527,0,0
+1792612171685,153,GET /api/status,200,OK,Product API - 1 user 1-8,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,153,0,98
+1792612171841,502,GET /api/products,200,OK,Product API - 1 user 1-8,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,502,0,0
+1792612177683,146,GET /api/status,200,OK,Product API - 1 user 1-9,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,146,0,93
+1792612177830,516,GET /api/products,200,OK,Product API - 1 user 1-9,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,516,0,0
+1792612183684,152,GET /api/status,200,OK,Product API - 1 user 1-10,text,true,,590,788,1,1,https://workspace-murex-psi-93.vercel.app/api/status,152,0,93
+1792612183838,518,GET /api/products,200,OK,Product API - 1 user 1-10,text,true,,2339,790,1,1,https://workspace-murex-psi-93.vercel.app/api/products,518,0,0
