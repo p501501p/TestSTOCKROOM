@@ -4,7 +4,7 @@
 
 > Repository นี้เก็บเอกสารและไฟล์แผนทดสอบ JMeter ไม่ได้รวมซอร์สโค้ดของเว็บแอปพลิเคชัน
 ## Vercel Deployment https://workspace-murex-psi-93.vercel.app/login
-## github TestSTOCKROOM https://github.com/p501501p/workspace
+## GitHub TestSTOCKROOM https://github.com/p501501p/workspace
 ## ภาพรวมระบบ
 
 ระบบ STOCKROOM แบ่งการทำงานเป็น 3 ส่วนหลัก:
