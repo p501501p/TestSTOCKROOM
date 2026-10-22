@@ -73,10 +73,9 @@
 
 ## การใช้ Session Cookie
 
-1. เข้าสู่ระบบทดสอบด้วยบัญชี `ADMIN` ที่ได้รับอนุญาต
-2. เปิด Developer Tools ของเบราว์เซอร์ (`F12`) แล้วเลือก **Application → Storage → Cookies**
-3. เลือกโดเมนของระบบทดสอบ และคัดลอกค่า **Value** ของ Session Cookie
-4. นำค่าไปใส่ใน `AUTH_COOKIE_VALUE` ของ JMeter
+1. เปิด Developer Tools ของเบราว์เซอร์ (`F12`) แล้วเลือก **Application → Storage → Cookies**
+2. เลือกโดเมนของระบบทดสอบ และคัดลอกค่า **Value** ของ Session Cookie
+3. นำค่าไปใส่ใน `AUTH_COOKIE_VALUE` ของ JMeter
 
 อย่าเผยแพร่รหัสผ่านหรือ Session Cookie ใน README, repository, ภาพหน้าจอ, ไฟล์ผลลัพธ์ หรือรายงาน เพราะ Session Cookie ใช้ยืนยันตัวตนได้เหมือนข้อมูลลับ
 
