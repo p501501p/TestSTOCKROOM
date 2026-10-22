@@ -79,4 +79,5 @@
 ### 8.3 ตัวอย่างขั้นตอนการหา Cookie
 
 <!-- เพิ่มไฟล์ GIF ที่แสดงขั้นตอนการเข้าสู่ระบบ เปิด F12 เลือก Application → Cookies คัดลอกค่า Value และตั้งค่าตัวแปร Auth_cookie ใน JMeter -->
-https://cdn.discordapp.com/attachments/1313885030442864732/1562748925960650782/Screen-Recording-2026-10-22-154139.gif?ex=6adb1eda&is=6ad9cd5a&hm=2df77794ac61d4b39abbb43b830da868cfe9ea865588dbf07b47f210bad038b0&
+<img width="1918" height="1078" alt="Screen-Recording-2026-10-22-154139" src="https://github.com/user-attachments/assets/c09c45f9-0466-4a69-b25c-89045f7591e0" />
+
