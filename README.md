@@ -3,7 +3,7 @@
 เอกสารและชุดทดสอบ API/Performance ด้วย [Apache JMeter](https://jmeter.apache.org/) สำหรับระบบจัดการสินค้า STOCKROOM
 
 > Repository นี้เก็บเอกสารและไฟล์แผนทดสอบ JMeter ไม่ได้รวมซอร์สโค้ดของเว็บแอปพลิเคชัน
-
+Vercel Deployment https://workspace-murex-psi-93.vercel.app/login
 ## ภาพรวมระบบ
 
 ระบบ STOCKROOM แบ่งการทำงานเป็น 3 ส่วนหลัก:
